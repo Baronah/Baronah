@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi henlo
 
-<!--
-**SatoriSimp/SatoriSimp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## About Me
+- I'm a backend developer, but currently learning Unity to finish some old ideas I had.
+- I love rice it's peak.
+- Contact: [Email](kimnguu2743@gmail.com)
+  
+## Featured Projects
+- [Nicho5](https://github.com/SatoriSimp/Nicho5_Releases): A turn-based game inspired by Arknights, made with Unity.
+- [Fumo Rescuer](https://github.com/SatoriSimp/Fumo-Rescuer): A top-down game inspired by Arknights, made with Unity (it's very unoptimized so I'll come back to fix it later).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Satistic because why not
+![SatoriSimp's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SatoriSimp&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SatoriSimp&layout=compact&theme=radical)
