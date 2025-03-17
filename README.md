@@ -1,7 +1,5 @@
 # Hi henlo
 
-Welcome to my GitHub profile!
-
 ## About Me
 - Backend developer, but currently learning Unity to finish some old ideas I had.
 - I love rice it's peak.
