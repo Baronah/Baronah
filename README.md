@@ -10,6 +10,6 @@
 - [Fumo Rescuer](https://github.com/SatoriSimp/Fumo-Rescuer): A top-down game inspired by Arknights, made with Unity (it's very unoptimized so I'll come back to fix it later).
 
 ## Satistic because why not
-![SatoriSimp's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SatoriSimp&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Baronah&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SatoriSimp&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Baronah&layout=compact&theme=radical)
